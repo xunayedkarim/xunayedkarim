@@ -87,14 +87,27 @@
   <a href="https://github.com/xunayedkarim" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<h3>🌱 My Vision & Green Computing Mission</h3>
+<p>My dream is to build sustainable, natural technology solutions using AI and Machine Learning to benefit people and the planet. 🌍💡</p>
 
-<h3>⚡ Fun fact</h3>
-<p>I can solve a Rubik's cube in under 2 minutes! 🧩</p>
+<p>One of my main focuses is <b>Green Computing</b>: designing energy-efficient algorithms, reducing carbon footprint of computing systems, and promoting eco-friendly tech solutions. 💻♻️</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xunayedkarim&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/xunayedkarim?label=Followers&style=social" alt="GitHub Followers" />
+<p>For Dhaka, my goal is to explore <b>AI-driven solutions</b> to reduce air pollution:  
+<ul>
+  <li>Monitoring real-time air quality data using IoT sensors and ML prediction models. 📊</li>
+  <li>Optimizing traffic and industrial emissions through smart algorithms. 🚦🏭</li>
+  <li>Raising awareness about sustainable practices among residents and policymakers. 🌱</li>
+</ul>
 </p>
+
+<h3> Interested in AI Projects?</h3>
+<p>If you are passionate about AI or Machine Learning and want to collaborate on sustainable, impactful projects, feel free to reach out to me! 👇</p>
+<p>
+<a href="https://wa.me/8801893255503" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2317E88C.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
