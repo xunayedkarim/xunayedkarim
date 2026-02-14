@@ -19,11 +19,15 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<h3>Where to find me</h3>
+<h3>GitHub Stats</h3>
 <p>
-<a href="https://github.com/Junayed-Bin-Karim" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/junayed-bin-karim-47b755270" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2317E88C.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Junayed-Bin-Karim&show_icons=true&theme=radical" />
 </p>
 
-<p align="center">This <i>README</i> is fully customizable to highlight your skills, AI/ML expertise, and latest updates.</p>
+<h3>Where to find me</h3>
+<p>
+<a href="https://www.linkedin.com/in/junayed-bin-karim-47b755270" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/8801893255503" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2317E88C.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+<p align="center">This <i>README</i> is fully customizable to highlight your AI/ML skills, tech stack, and GitHub stats automatically.</p>
