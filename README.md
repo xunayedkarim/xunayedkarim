@@ -79,43 +79,14 @@
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
 </p>
 
-<h3>📊 GitHub Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=xunayedkarim&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xunayedkarim&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xunayedkarim&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<h3>🏆 GitHub Trophies</h3>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=xunayedkarim&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
-<h3>📈 Activity Graph</h3>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xunayedkarim&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
 
 <h3>📫 Where to find me</h3>
 <p>
   <a href="https://www.linkedin.com/in/junayed-bin-karim/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/8801893255503" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2317E88C.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/xunayedkarim" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:xunayedkarim@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3>💡 Recent Projects</h3>
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/-🌱%20Climate%20Prediction%20Model-brightgreen?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-📱%20Sustainable%20Living%20App-blue?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-🤖%20AI%20Assistant%20for%20Farmers-yellowgreen?style=for-the-badge" /></a>
-</p>
 
 <h3>⚡ Fun fact</h3>
 <p>I can solve a Rubik's cube in under 2 minutes! 🧩</p>
