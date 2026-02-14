@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm <b>Md Junayed Bin Karim</b>, a Fullstack Developer & AI enthusiast from <img src="https://cdn-icons-png.flaticon.com/512/197/197509.png" width="13"/> <b>Bangladesh</b>, currently exploring opportunities in sustainable tech and machine learning.</p>
+<p>Welcome to my page! </br> I'm <b>Md Junayed Bin Karim</b>, an AI & Machine Learning Specialist and Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197509.png" width="13"/> <b>Bangladesh</b>. I focus on building sustainable, data-driven solutions that benefit people and the planet.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -13,50 +13,17 @@
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Machine Learning" src="https://img.shields.io/badge/-ML-FF6F61?style=flat-square" />
+  <img alt="XGBoost" src="https://img.shields.io/badge/-XGBoost-FF9900?style=flat-square" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-<h3>Highlighted Projects</h3>
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Junayed-Bin-Karim/green-computing-ml"><b>Green Computing ML</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Junayed-Bin-Karim/green-computing-ml?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Junayed-Bin-Karim/green-computing-ml?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Junayed-Bin-Karim/green-computing-ml?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Junayed-Bin-Karim/green-computing-ml?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Junayed-Bin-Karim/career-pro"><b>Career Pro AI</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Junayed-Bin-Karim/career-pro?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Junayed-Bin-Karim/career-pro?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Junayed-Bin-Karim/career-pro?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Junayed-Bin-Karim/career-pro?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Junayed-Bin-Karim/bd-genz-mental-health"><b>BD GenZ Mental Health</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Junayed-Bin-Karim/bd-genz-mental-health?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Junayed-Bin-Karim/bd-genz-mental-health?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Junayed-Bin-Karim/bd-genz-mental-health?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Junayed-Bin-Karim/bd-genz-mental-health?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
 
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/Junayed-Bin-Karim" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/junayed-bin-karim-47b755270" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://meetjunayed.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%23FF6F61.svg?&style=for-the-badge" /></a>
+<a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2317E88C.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<p align="center">This <i>README</i> is fully customizable to highlight your latest projects, skills, and updates.</p>
+<p align="center">This <i>README</i> is fully customizable to highlight your skills, AI/ML expertise, and latest updates.</p>
