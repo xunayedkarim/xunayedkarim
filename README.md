@@ -58,10 +58,7 @@
 <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
 </p>
 
-<h3>GitHub Stats</h3>
-<p>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Junayed-Bin-Karim&show_icons=true&theme=radical" />
-</p>
+
 
 <h3>Where to find me</h3>
 <p>
