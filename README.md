@@ -88,20 +88,20 @@
 </p>
 
 <h3>🌱 My Vision & Green Computing Mission</h3>
-<p>My dream is to build sustainable, natural technology solutions using AI and Machine Learning to benefit people and the planet. 🌍💡</p>
+<p>My dream is to build sustainable, natural technology solutions using AI and Machine Learning to benefit people and the planet. 🌍</p>
 
-<p>One of my main focuses is <b>Green Computing</b>: designing energy-efficient algorithms, reducing carbon footprint of computing systems, and promoting eco-friendly tech solutions. 💻♻️</p>
+<p>One of my main focuses is <b>Green Computing</b>: designing energy-efficient algorithms, reducing carbon footprint of computing systems, and promoting eco-friendly tech solutions.♻️</p>
 
 <p>For Dhaka, my goal is to explore <b>AI-driven solutions</b> to reduce air pollution:  
 <ul>
-  <li>Monitoring real-time air quality data using IoT sensors and ML prediction models. 📊</li>
-  <li>Optimizing traffic and industrial emissions through smart algorithms. 🚦🏭</li>
+  <li>Monitoring real-time air quality data using IoT sensors and ML prediction models. </li>
+  <li>Optimizing traffic and industrial emissions through smart algorithms. </li>
   <li>Raising awareness about sustainable practices among residents and policymakers. 🌱</li>
 </ul>
 </p>
 
 <h3> Interested in AI Projects?</h3>
-<p>If you are passionate about AI or Machine Learning and want to collaborate on sustainable, impactful projects, feel free to reach out to me! 👇</p>
+<p>If you are passionate about AI or Machine Learning and want to collaborate on sustainable, impactful projects, feel free to reach out to me! </p>
 <p>
 <a href="https://wa.me/8801893255503" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2317E88C.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
