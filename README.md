@@ -84,7 +84,6 @@
 <p>
   <a href="https://www.linkedin.com/in/junayed-bin-karim/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/8801893255503" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2317E88C.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://github.com/xunayedkarim" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <h3>🌱 My Vision & Green Computing Mission</h3>
