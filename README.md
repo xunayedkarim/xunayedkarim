@@ -66,4 +66,3 @@
 <a href="https://wa.me/8801893255503" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2317E88C.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<p align="center">This <i>README</i> is fully customizable to highlight your AI/ML skills, tech stack, and GitHub stats automatically.</p>
